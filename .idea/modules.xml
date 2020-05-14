@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/2e-kawalcorona-Fighter099601.iml" filepath="$PROJECT_DIR$/2e-kawalcorona-Fighter099601.iml" group="2e-kawalcorona-Fighter099601" />
+      <module fileurl="file://$PROJECT_DIR$/2e-kawalcorona-Fighter099601-Corona Info.iml" filepath="$PROJECT_DIR$/2e-kawalcorona-Fighter099601-Corona Info.iml" group="Corona Info" />
+      <module fileurl="file://$PROJECT_DIR$/app/2e-kawalcorona-Fighter099601-app.iml" filepath="$PROJECT_DIR$/app/2e-kawalcorona-Fighter099601-app.iml" group="Corona Info/app" />
+      <module fileurl="file://$PROJECT_DIR$/Corona Info.iml" filepath="$PROJECT_DIR$/Corona Info.iml" group="Corona Info" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="Corona Info/app" />
     </modules>
   </component>
 </project>
